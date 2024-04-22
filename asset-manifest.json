@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/zeeeze/static/css/main.1e555581.css",
+    "main.js": "/zeeeze/static/js/main.fe1089d6.js",
+    "static/js/453.ed3810f9.chunk.js": "/zeeeze/static/js/453.ed3810f9.chunk.js",
+    "index.html": "/zeeeze/index.html",
+    "main.1e555581.css.map": "/zeeeze/static/css/main.1e555581.css.map",
+    "main.fe1089d6.js.map": "/zeeeze/static/js/main.fe1089d6.js.map",
+    "453.ed3810f9.chunk.js.map": "/zeeeze/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e555581.css",
+    "static/js/main.fe1089d6.js"
+  ]
+}
